@@ -1,0 +1,12 @@
+---
+
+
+R1:
+    hostname: 192.168.8.252
+    platform: 'ios'
+    data:
+      vrfs:
+          - name: "test1"
+            description: "test"
+  
+
